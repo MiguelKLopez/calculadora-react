@@ -1,0 +1,40 @@
+html{
+  background-color: #17191e;
+}
+
+.App{
+  height: 100%;
+  padding-top: 10px;
+  font-family: monospace;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.logo-contenedor{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+
+.logo{
+  height: 100px;
+}
+
+.contenedor-calculadora{
+  height: 575px;
+  width: 400px;
+  padding: 14px;
+  background-color: #1e2028;
+}
+
+.fila{
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
