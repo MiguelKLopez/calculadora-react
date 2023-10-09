@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To start using the calculator you should start installing...
+
+### `npm install`
+### `npm install mathjs`
 
 ## Available Scripts
 
